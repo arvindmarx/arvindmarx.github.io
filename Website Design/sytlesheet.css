@@ -1,0 +1,22 @@
+#logo {
+width:355%;
+}
+
+#menu {
+margin-top:10px;
+}
+
+#comments {
+background:linear-gradient(to bottom right, white, silver);
+border:5px solid brown;
+margin-top:5px;
+height:900px;
+width:100%;
+}
+
+#form {
+border:6px solid blue;
+height:700px;
+float:right;
+margin:10px;
+}
